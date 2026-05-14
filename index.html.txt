@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <title>GitLab Deploy Test</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="card">
+    <h1>GitLab CI/CD работает</h1>
+    <p>Этот сайт был автоматически собран и задеплоен в Kubernetes AlemPlus.</p>
+  </div>
+</body>
+</html>
